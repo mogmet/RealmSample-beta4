@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Notification - RealmSample WatchKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>RealmSample WatchKit Extension Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>RealmSample WatchKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>RealmSample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0CDA79761B7833E4001D25B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0CDA798F1B7833EA001D25B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0CDA79A01B783499001D25B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0CDA79CB1B78355E001D25B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

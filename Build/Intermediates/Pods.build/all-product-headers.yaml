@@ -1,0 +1,218 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Pods_RealmSample_WatchKit_Extension.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-RealmSample WatchKit Extension-umbrella.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Target Support Files/Pods-RealmSample WatchKit Extension/Pods-RealmSample WatchKit Extension-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_RealmSample_WatchKit_Extension-Swift.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Pods_RealmSample_WatchKit_Extension.framework/Headers/Pods_RealmSample_WatchKit_Extension-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Pods_RealmSample_WatchKit_Extension.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Intermediates/Pods.build/Debug-watchsimulator/Pods-RealmSample WatchKit Extension.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Realm.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RLMArray.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMCollection.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMCollection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMConstants.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMDefines.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMMigration.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMMigration.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObject.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObjectBase.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObjectBase.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObjectSchema.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObjectSchema.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMPlatform.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMPlatform.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMProperty.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMRealm.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMRealm.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMResults.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMResults.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMSchema.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMSchema.h"
+        },
+        {
+          'type': 'file',
+          'name': "Realm-Swift.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Realm.framework/Headers/Realm-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Realm.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/Realm.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Realm.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Intermediates/Pods.build/Debug-watchsimulator/Realm.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/Realm.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RLMArray_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMArray_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMListBase.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMListBase.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMMigration_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMMigration_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObjectSchema_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObjectSchema_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObjectStore.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObjectStore.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMObject_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMObject_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMProperty_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMProperty_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMRealmUtil.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMRealmUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMRealm_Dynamic.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMRealm_Dynamic.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMRealm_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMRealm_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMResults_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMResults_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RLMSchema_Private.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Realm/include/realm/RLMSchema_Private.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/RealmSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RealmSwift-Swift.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/RealmSwift.framework/Headers/RealmSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RealmSwift-umbrella.h",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Pods/Target Support Files/RealmSwift/RealmSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Products/Debug-watchsimulator/RealmSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/daiki.ito/iOS/sample/RealmSample/Build/Intermediates/Pods.build/Debug-watchsimulator/RealmSwift.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

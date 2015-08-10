@@ -1,0 +1,1 @@
+ const unsigned char Pods_RealmSample_WatchKit_ExtensionVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_RealmSample_WatchKit_Extension  PROJECT:Pods-1" "\n"; const double Pods_RealmSample_WatchKit_ExtensionVersionNumber __attribute__ ((used)) = (double)1.;

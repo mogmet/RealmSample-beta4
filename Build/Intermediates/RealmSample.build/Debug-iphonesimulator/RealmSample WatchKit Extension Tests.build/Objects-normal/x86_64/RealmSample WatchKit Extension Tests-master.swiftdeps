@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.47.4 clang-700.0.59.1)"
+options: "e0282154e6ee412eb4278e7ad0c42c3b"
+build_time: [492490393, 588562000]
+inputs: 
+	"/Users/daiki.ito/iOS/sample/RealmSample/RealmSample WatchKit Extension Tests/RealmSample_WatchKit_Extension_Tests.swift": !dirty [492485214, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/RealmSample WatchKit Extension/InterfaceController.swift": !dirty [492485154, 0]

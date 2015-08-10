@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.47.4 clang-700.0.59.1)"
+options: "dfabdeeb284f34b323304579f8f9f1a9"
+build_time: [492485154, 525237000]
+inputs: 
+	"/Users/daiki.ito/iOS/sample/RealmSample/RealmSample WatchKit Extension/ExtensionDelegate.swift": [492485017, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/RealmSample WatchKit Extension/InterfaceController.swift": [492485154, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/RealmSample WatchKit Extension/NotificationController.swift": [492485017, 0]

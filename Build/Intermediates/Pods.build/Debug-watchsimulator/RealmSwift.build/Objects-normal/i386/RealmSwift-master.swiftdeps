@@ -1,0 +1,15 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.47.4 clang-700.0.59.1)"
+options: "be314669949b70c825018574232ce218"
+build_time: [492490392, 168663000]
+inputs: 
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Object.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Schema.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Aliases.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/SortDescriptor.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Realm.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Migration.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Results.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/ObjectSchema.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/List.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Util.swift": [492485084, 0]
+	"/Users/daiki.ito/iOS/sample/RealmSample/Pods/RealmSwift/RealmSwift/Property.swift": [492485084, 0]
